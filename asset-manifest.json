@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auth-page/static/css/main.dc0403b8.chunk.css",
+    "main.js": "/auth-page/static/js/main.0f8b34d2.chunk.js",
+    "main.js.map": "/auth-page/static/js/main.0f8b34d2.chunk.js.map",
+    "runtime-main.js": "/auth-page/static/js/runtime-main.4bf0c32d.js",
+    "runtime-main.js.map": "/auth-page/static/js/runtime-main.4bf0c32d.js.map",
+    "static/js/2.b2a43ab8.chunk.js": "/auth-page/static/js/2.b2a43ab8.chunk.js",
+    "static/js/2.b2a43ab8.chunk.js.map": "/auth-page/static/js/2.b2a43ab8.chunk.js.map",
+    "index.html": "/auth-page/index.html",
+    "static/css/main.dc0403b8.chunk.css.map": "/auth-page/static/css/main.dc0403b8.chunk.css.map",
+    "static/js/2.b2a43ab8.chunk.js.LICENSE.txt": "/auth-page/static/js/2.b2a43ab8.chunk.js.LICENSE.txt",
+    "static/media/google_logo.e576aca0.svg": "/auth-page/static/media/google_logo.e576aca0.svg",
+    "static/media/microsoft_logo.3cc4718c.svg": "/auth-page/static/media/microsoft_logo.3cc4718c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf0c32d.js",
+    "static/js/2.b2a43ab8.chunk.js",
+    "static/css/main.dc0403b8.chunk.css",
+    "static/js/main.0f8b34d2.chunk.js"
+  ]
+}
